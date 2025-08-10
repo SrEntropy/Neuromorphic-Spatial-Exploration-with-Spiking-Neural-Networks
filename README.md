@@ -1,0 +1,2 @@
+# Neuromorphic-Spatial-Exploration-with-Spiking-Neural-Networks
+Design and simulate a neuromorphic agent capable of performing spatial navigation in a virtual environment, using event-driven visual inputs processed by a Spiking Neural Network (SNN) implemented in Nengo. The project aims to showcase understanding of neuromorphic sensing, perception-action loops, and biologically plausible computation.
